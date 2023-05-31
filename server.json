@@ -1,0 +1,60 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de Site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2023-05-29T13:11:35.505z"
+    },
+    {
+      "id": 2,
+      "description": "Hamburger",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 50,
+      "createdAt": "2023-05-29T11:45:35.505z"
+    },
+    {
+      "id": 3,
+      "description": "Ignite Rocketseat",
+      "type": "outcome",
+      "category": "Educação",
+      "price": 1980,
+      "createdAt": "2023-05-29T17:24:35.505z"
+    },
+    {
+      "description": "macbook m1",
+      "category": "Equipamentos",
+      "price": 6999,
+      "type": "outcome",
+      "createdAt": "2023-05-30T00:39:28.411Z",
+      "id": 4
+    },
+    {
+      "description": "macbook m1",
+      "category": "Equipamentos",
+      "price": 6999,
+      "type": "income",
+      "createdAt": "2023-05-30T00:41:43.979Z",
+      "id": 5
+    },
+    {
+      "description": "Combão de Jack",
+      "category": "Cachaça",
+      "price": 200,
+      "type": "outcome",
+      "createdAt": "2023-05-30T00:59:48.776Z",
+      "id": 6
+    },
+    {
+      "description": "RX6600 XT",
+      "category": "Equipamentos",
+      "price": 5000,
+      "type": "outcome",
+      "createdAt": "2023-05-30T01:04:08.085Z",
+      "id": 7
+    }
+  ]
+}
